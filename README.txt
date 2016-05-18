@@ -5,7 +5,7 @@ Author: Kevin Chen
 Editor: Kevin
 
 Introduction: 
-	This is a program that help Chevy dealer to sale they latest 	automobile. 
+	This is a program that help Chevy dealer to sale they latest automobile. 
 
 Features: 
 	1. User are able to get a coupon number under the help window, 	then select the desire automobile and its features and enter the coupon number to get a discount from the car¡¯s sales price.  
